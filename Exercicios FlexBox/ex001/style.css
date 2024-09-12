@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+}
+
+.corpomenu{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+
+.corpomenu ul {
+    display: flex;
+    gap: 100px;
+    
+    
+    
+
+    
+}
+
+
+
